@@ -19,3 +19,6 @@ OR
 ```
 ionic serve (for Web)
 ```
+# Screenshot
+
+![alt text](https://raw.githubusercontent.com/simkeyur/WalkitApp/master/Walkit_Screenshot.jpg)
