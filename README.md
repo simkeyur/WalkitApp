@@ -1,24 +1,5 @@
 # WalkitApp
-Pedometer App using Ionic Native and Cordova
-
-To run this app, you will need nodejs Installed.
-
-Run following commands:
-
-```
-npm install -g ionic
-```
-```
-cd {path-to-WalkitApp}
-```
-
-```
-ionic cordova run android 
-```
-OR
-```
-ionic serve (for Web)
-```
+https://play.google.com/store/apps/details?id=io.walkit.walkitapp&hl=en_US
 # Screenshot
 
 ![alt text](https://raw.githubusercontent.com/simkeyur/WalkitApp/master/Walkit_Screenshot.jpg)
